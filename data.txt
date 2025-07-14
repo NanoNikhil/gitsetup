@@ -1,0 +1,2 @@
+integer,Long,wrapper
+class and definition of config data
