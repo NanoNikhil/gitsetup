@@ -1,1 +1,1 @@
-map , list , save
+map , list , save,delete,merge, fetch
